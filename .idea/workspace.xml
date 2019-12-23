@@ -119,8 +119,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="99" />
-    <option name="y" value="181" />
+    <option name="x" value="103" />
+    <option name="y" value="136" />
     <option name="width" value="1676" />
     <option name="height" value="948" />
   </component>
@@ -235,7 +235,7 @@
       <option name="presentableId" value="Default" />
       <updated>1577078562447</updated>
       <workItem from="1577078565627" duration="1734000" />
-      <workItem from="1577081143254" duration="3488000" />
+      <workItem from="1577081143254" duration="4367000" />
     </task>
     <task id="LOCAL-00001" summary="Arame&#10;=====&#10;快速开始&#10;----&#10;```&#10;public static void main（String [] args）{&#10;        Arame arame=new Arame();&#10;        arame.setTitle(&quot;hello world！&quot;);&#10;        arame.setSize(300,170);&#10;        arame.setVisible（真）;&#10;        } &#10;```&#10;运行效果&#10;-----&#10;[my-logo.png]: https://github.com/krirtocc/Actuality/blob/master/%E5%AE%9E%E4%BE%8B.png?raw=true? &quot;Actuality /实例.png&quot;&#10;![my-logo.png]&#10; Actuality /实例.png">
       <created>1577080795091</created>
@@ -272,16 +272,23 @@
       <option name="project" value="LOCAL" />
       <updated>1577089416466</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Arame&#10;=====&#10;快速开始&#10;----&#10;```&#10;public static void main（String [] args）{&#10;        Arame arame=new Arame();&#10;        arame.setTitle(&quot;hello world！&quot;);&#10;        arame.setSize(300,170);&#10;        arame.setVisible（真）;&#10;        } &#10;```&#10;运行效果&#10;-----&#10;[my-logo.png]: https://github.com/krirtocc/Actuality/blob/master/%E5%AE%9E%E4%BE%8B.png?raw=true? &quot;Actuality /实例.png&quot;&#10;![my-logo.png]&#10; Actuality /实例.png">
+      <created>1577089821843</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1577089821843</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5222000" />
+    <option name="totallyTimeSpent" value="6101000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="23" width="1295" height="704" extended-state="6" />
+    <frame x="69" y="91" width="1117" height="632" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23201293" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2710104" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -297,8 +304,8 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49899396" weight="0.32846716" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.501006" side_tool="true" weight="0.32962963" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32846716" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.50141644" side_tool="true" visible="true" weight="0.37815127" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49858356" visible="true" weight="0.37815127" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.5182482" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
