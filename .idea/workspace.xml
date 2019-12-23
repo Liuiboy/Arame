@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e3fe206-69c6-474f-96cd-3bd16ffac02a" name="Default Changelist" comment="Arame&#10;=====&#10;快速开始&#10;----&#10;```&#10;public static void main（String [] args）{&#10;        Arame arame=new Arame();&#10;        arame.setTitle(&quot;hello world！&quot;);&#10;        arame.setSize(300,170);&#10;        arame.setVisible（真）;&#10;        } &#10;```&#10;运行效果&#10;-----&#10;[my-logo.png]: https://github.com/krirtocc/Actuality/blob/master/%E5%AE%9E%E4%BE%8B.png?raw=true? &quot;Actuality /实例.png&quot;&#10;![my-logo.png]&#10; Actuality /实例.png">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arame.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/liuz/Arame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/liuz/button/RedButtonUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/liuz/button/YellowButtonUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/liuz/button/greenButtonUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/liuz/panel/TitlePanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/liuz/panel/Uspanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/liuz/Arame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/liuz/Arame.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,26 +13,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/org/liuz/Arame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-532">
-              <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            <state relative-caret-position="-509">
+              <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1162#1431#0" expanded="true" />
-                <element signature="e#1430#1431#0" expanded="true" />
-                <element signature="e#1468#1791#0" expanded="true" />
-                <element signature="e#1790#1791#0" expanded="true" />
-                <element signature="e#2381#2545#0" expanded="true" />
-                <element signature="e#2544#2545#0" expanded="true" />
-                <element signature="e#2811#3634#0" expanded="true" />
-                <element signature="e#3633#3634#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -52,7 +33,7 @@
         <entry file="file://$PROJECT_DIR$/src/org/liuz/button/greenButtonUI.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="19">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -83,8 +64,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/org/liuz/button/RedButtonUI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="95">
+              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -92,8 +73,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/org/liuz/panel/TitlePanel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            <state relative-caret-position="152">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -113,12 +94,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/org/liuz/button/RedButtonUI.java" />
-        <option value="$PROJECT_DIR$/src/org/liuz/Arame.java" />
         <option value="$PROJECT_DIR$/src/org/liuz/button/YellowButtonUI.java" />
         <option value="$PROJECT_DIR$/src/org/liuz/button/greenButtonUI.java" />
         <option value="$PROJECT_DIR$/src/org/liuz/panel/Uspanel.java" />
         <option value="$PROJECT_DIR$/src/org/liuz/panel/TitlePanel.java" />
+        <option value="$PROJECT_DIR$/src/org/liuz/button/RedButtonUI.java" />
+        <option value="$PROJECT_DIR$/src/org/liuz/Arame.java" />
       </list>
     </option>
   </component>
@@ -136,11 +117,11 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="169" />
-    <option name="y" value="184" />
-    <option name="width" value="1578" />
-    <option name="height" value="1044" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
+    <option name="y" value="34" />
+    <option name="width" value="1943" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -154,6 +135,45 @@
             <path>
               <item name="Arame" type="b2602c69:ProjectViewProjectNode" />
               <item name="Arame" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Arame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Arame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Arame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="liuz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Arame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="liuz" type="462c0819:PsiDirectoryNode" />
+              <item name="button" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Arame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="liuz" type="462c0819:PsiDirectoryNode" />
+              <item name="panel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Arame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arame" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -177,7 +197,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -210,29 +230,47 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577078562447</updated>
-      <workItem from="1577078565627" duration="1526000" />
+      <workItem from="1577078565627" duration="1734000" />
+      <workItem from="1577081143254" duration="2742000" />
     </task>
+    <task id="LOCAL-00001" summary="Arame&#10;=====&#10;快速开始&#10;----&#10;```&#10;public static void main（String [] args）{&#10;        Arame arame=new Arame();&#10;        arame.setTitle(&quot;hello world！&quot;);&#10;        arame.setSize(300,170);&#10;        arame.setVisible（真）;&#10;        } &#10;```&#10;运行效果&#10;-----&#10;[my-logo.png]: https://github.com/krirtocc/Actuality/blob/master/%E5%AE%9E%E4%BE%8B.png?raw=true? &quot;Actuality /实例.png&quot;&#10;![my-logo.png]&#10; Actuality /实例.png">
+      <created>1577080795091</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577080795092</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Arame&#10;=====&#10;快速开始&#10;----&#10;```&#10;public static void main（String [] args）{&#10;        Arame arame=new Arame();&#10;        arame.setTitle(&quot;hello world！&quot;);&#10;        arame.setSize(300,170);&#10;        arame.setVisible（真）;&#10;        } &#10;```&#10;运行效果&#10;-----&#10;[my-logo.png]: https://github.com/krirtocc/Actuality/blob/master/%E5%AE%9E%E4%BE%8B.png?raw=true? &quot;Actuality /实例.png&quot;&#10;![my-logo.png]&#10; Actuality /实例.png">
+      <created>1577080882512</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577080882512</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Arame&#10;=====&#10;快速开始&#10;----&#10;```&#10;public static void main（String [] args）{&#10;        Arame arame=new Arame();&#10;        arame.setTitle(&quot;hello world！&quot;);&#10;        arame.setSize(300,170);&#10;        arame.setVisible（真）;&#10;        } &#10;```&#10;运行效果&#10;-----&#10;[my-logo.png]: https://github.com/krirtocc/Actuality/blob/master/%E5%AE%9E%E4%BE%8B.png?raw=true? &quot;Actuality /实例.png&quot;&#10;![my-logo.png]&#10; Actuality /实例.png">
+      <created>1577080974222</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577080974222</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1526000" />
+    <option name="totallyTimeSpent" value="4476000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="71" y="31" width="1052" height="696" extended-state="1" />
+    <frame x="-7" y="23" width="1295" height="704" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24949698" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23201293" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.49899396" weight="0.32962963" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.501006" side_tool="true" weight="0.32962963" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32962963" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -240,17 +278,23 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Word Book" side_tool="true" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Key Promoter X" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49899396" weight="0.32962963" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.501006" side_tool="true" weight="0.32962963" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32962963" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" visible="true" weight="0.08759124" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Word Book" order="6" side_tool="true" />
+      <window_info anchor="right" id="Key Promoter X" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
     </layout>
     <layout-to-restore>
       <window_info id="Designer" order="0" />
@@ -293,6 +337,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="Arame&#10;=====&#10;快速开始&#10;----&#10;```&#10;public static void main（String [] args）{&#10;        Arame arame=new Arame();&#10;        arame.setTitle(&quot;hello world！&quot;);&#10;        arame.setSize(300,170);&#10;        arame.setVisible（真）;&#10;        } &#10;```&#10;运行效果&#10;-----&#10;[my-logo.png]: https://github.com/krirtocc/Actuality/blob/master/%E5%AE%9E%E4%BE%8B.png?raw=true? &quot;Actuality /实例.png&quot;&#10;![my-logo.png]&#10; Actuality /实例.png" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/org/liuz/Arame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-509">
+          <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/liuz/button/greenButtonUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/liuz/panel/Uspanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Arame.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -305,47 +373,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/liuz/button/RedButtonUI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/liuz/button/greenButtonUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/liuz/panel/Uspanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/liuz/Arame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-532">
-          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1162#1431#0" expanded="true" />
-            <element signature="e#1430#1431#0" expanded="true" />
-            <element signature="e#1468#1791#0" expanded="true" />
-            <element signature="e#1790#1791#0" expanded="true" />
-            <element signature="e#2381#2545#0" expanded="true" />
-            <element signature="e#2544#2545#0" expanded="true" />
-            <element signature="e#2811#3634#0" expanded="true" />
-            <element signature="e#3633#3634#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="95">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/liuz/panel/TitlePanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        <state relative-caret-position="152">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>

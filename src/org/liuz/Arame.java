@@ -47,8 +47,6 @@ public class Arame extends JFrame {
     public Arame() {
         ////this.setUndecorated(true);
     }
-
-
     /**
      * 初始化窗体标题块panel
      */
@@ -122,7 +120,6 @@ public class Arame extends JFrame {
             }
         });
     }
-
     @Override
     public void setBackground(Color bgColor) {
 
