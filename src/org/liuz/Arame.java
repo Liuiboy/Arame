@@ -11,17 +11,14 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-/**
- * @创建人 六宅
- * @创建时间 2019/1/18- 18:33
- */
+
 public class Arame extends JFrame {
     private boolean monitor = true;
     private int mx, my, jfx, jfy;
     private int agox = 0, agoy = 0, agow = 0, agoh = 0;
     /**
      * 窗体标题块panel
-     * @see
+     *
      */
     private TitlePanel headline;
     /**
@@ -101,12 +98,12 @@ public class Arame extends JFrame {
         button2.addMouseListener(new MouseAdapter() {
             @Override
             public void mouseClicked(MouseEvent e) {
-                if ((int) Toolkit.getDefaultToolkit().getScreenSize().width != getWidth() && (int) Toolkit.getDefaultToolkit().getScreenSize().height != getWidth()) {
+                if (Toolkit.getDefaultToolkit().getScreenSize().width != getWidth() && Toolkit.getDefaultToolkit().getScreenSize().height != getWidth()) {
                     agox = getX();
                     agoy = getY();
                     agoh = getHeight();
                     agow = getWidth();
-                    setSize((int) Toolkit.getDefaultToolkit().getScreenSize().width, (int) Toolkit.getDefaultToolkit().getScreenSize().height);
+                    setSize(Toolkit.getDefaultToolkit().getScreenSize().width,  Toolkit.getDefaultToolkit().getScreenSize().height);
                     setLocation(0, 0);
                     monitor = false;
 
