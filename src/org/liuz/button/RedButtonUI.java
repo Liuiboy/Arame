@@ -5,7 +5,7 @@ import javax.swing.plaf.basic.BasicButtonUI;
 import java.awt.*;
 
 /**
- * @创建人 六濑
+ * @创建人 六宅
  * @创建时间 2019/1/18- 19:14
  */
 public class RedButtonUI extends BasicButtonUI {

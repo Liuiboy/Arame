@@ -12,7 +12,7 @@ import java.awt.*;
 import java.awt.event.*;
 
 /**
- * @创建人 六濑
+ * @创建人 六宅
  * @创建时间 2019/1/18- 18:33
  */
 public class Arame extends JFrame {
